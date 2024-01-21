@@ -1,0 +1,20 @@
+.Safe{
+    display: flex;
+    padding-top: 20px;
+}
+
+.Safe p{
+color: #1A0DBD;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 15px; /* 107.143% */
+letter-spacing: -0.28px;
+padding: 15px 0px 0px 5px;
+}
+
+.Safe p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

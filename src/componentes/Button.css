@@ -1,0 +1,21 @@
+
+.Button{
+    width: 141px;
+    height: 36px;
+    border-radius: 4px;
+    background: #F8F8F8;
+    color: #7B7B7B;
+    font-family: arial,sans-serif;    
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    border-color:none ;
+    line-height: 15px; /* 100% */    
+    letter-spacing: -0.3px;   
+    cursor: pointer;
+    border: 0;
+    }
+
+.Button:hover{
+    border: 1px solid #C0C0C0
+}

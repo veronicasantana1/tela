@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+}
+
+  .Center {
+    display: flex;
+    min-height: 100vh; /* Garante que o contêiner tenha pelo menos 100% da altura da viewport */
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -50px;
+  }
+
+  .input{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .botao{
+    display: flex;
+    justify-content: center;    
+  }
+
+  .espaço{
+    width: 20px;
+  }
+

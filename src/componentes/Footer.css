@@ -1,0 +1,71 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+.Footer{
+    margin: -90px 0px 0px 0px;
+    padding: 0;
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px; /* 100% */
+    letter-spacing: 0.15px;
+}
+.Informacao{
+    display: flex;
+    justify-content: space-between;
+    color: #707070;
+    width: 100%;
+height: 47px;
+background: #F2F2F2;
+}
+
+.Informacao p{
+    padding: 15px 20px 5px 20px;
+    cursor: pointer;
+}
+
+.Informacao p:hover{
+    text-decoration: underline;
+
+}
+
+.Direita{
+    display: flex;
+    flex-direction: row;
+}
+
+.Esquerda{
+    display: flex;
+    flex-direction: row;
+}
+.Meio{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Cima{
+height: 47px;
+background: #F2F2F2;
+
+}
+
+.Cima p{
+    padding: 15px 0px 5px 20px;
+    cursor: pointer;
+}
+
+.Cima p:hover{
+    text-decoration: underline;
+}
+
+.Footer hr{
+        width: 100%;
+        height: 1px;
+        border: 0px;
+        border-top: 1px solid #DADCE0;;
+        background-color: #dddddd;
+}

@@ -1,0 +1,39 @@
+.Header{
+    display: flex;
+    justify-content: flex-end;
+    color: #707070;
+    font-family: arial,sans-serif;   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px; /* 107.143% */
+    letter-spacing: -0.42px;
+
+}
+
+.Header p{
+    padding: 13px 20px 0px 10px;
+    cursor: pointer;
+}
+
+.Header p:hover {
+    text-decoration: underline;
+}
+
+.Header img{
+    cursor: pointer;
+}
+
+.Menu{
+    width: 33px;
+    height: 33px;
+    padding: 5px 10px;
+
+}
+
+.Foto{
+    padding-right: 5px;
+}
+
+
+
